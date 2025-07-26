@@ -54,3 +54,7 @@ divide(20, 5) = 4.0
 ```
 
 You do **not** need to start the server separately when using stdio transport with the client. 
+
+Snapshot
+<img width="1439" height="627" alt="Screenshot 2025-07-26 at 12 36 40 PM" src="https://github.com/user-attachments/assets/81329c45-3fbe-4cbc-96fc-11b6081c24db" />
+
