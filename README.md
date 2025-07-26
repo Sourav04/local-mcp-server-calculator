@@ -17,6 +17,7 @@ This project is a simple MCP server using [fastmcp](https://github.com/jlowin/fa
    ```
 
    The server will start at `http://127.0.0.1:8000/mcp` (if using HTTP transport).
+   (use this only for testing as the client tool will be running the server as well during testing)
 
 ## Tools
 
