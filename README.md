@@ -8,9 +8,7 @@ This project is a simple MCP server using [fastmcp](https://github.com/jlowin/fa
 
    Ensure you have Python 3.10+ installed.
 
-   ```sh
-   pip install -r requirements.txt
-   ```
+   and Install fasmcp using uv or pip
 
 2. **Run the server**
 
